@@ -1,0 +1,27 @@
+img{
+    border: solid 900px;
+    border-color: blue;
+    border-style: groove;
+}
+p{
+    background: blue;
+    color: yellow;
+}
+div {
+  padding: 200px 500px 750px 1000px;
+}
+table, th, td {
+  border: 1000px solid black;
+}
+
+front{
+    font: 500;
+    border: solid 120px;
+    border-style: dotted;
+    background: grey;
+    border-color: blue;
+}
+front1{
+    background: pink;
+    color: aqua;
+}
